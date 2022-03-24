@@ -6,7 +6,7 @@
     "flags": [ "LONE_START", "CHALLENGE" ],
     "points": -69,
     "description": "Is Really Bad Day getting too easy for you?  This scenario will give you a real challenge, none of that artificial difficulty stuff.  A start for true men.",
-    "start_name": "Wizard's Secret Basement Study",
+    "start_name": "Entombed",
     "allowed_locs": [ "sloc_deep_rock" ],
     "forced_traits": [ "ROT3" ],
     "professions": [
