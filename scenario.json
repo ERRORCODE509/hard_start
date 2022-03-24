@@ -12,6 +12,6 @@
     "professions": [
       "naked"
     ],
-    "eoc": [ "scenario_fungal_infection", "scenario_infected", "scenario_bad_day", "scenario_strong_portal_storm", "scenario_strong_portal_storm_base", "scenario_quick_portal_storm" ],
+    "eoc": [ "scenario_fungal_infection", "scenario_infected", "scenario_bad_day", "scenario_strong_portal_storm", "scenario_strong_portal_storm_base", "scenario_quick_portal_storm" ]
   }
 ]
