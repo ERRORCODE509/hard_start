@@ -1,1 +1,8 @@
-
+[
+  {
+    "type": "start_location",
+    "id": "sloc_deep_rock",
+    "name": "Entombed",
+    "terrain": [ "deep_rock" ]
+  }
+]
