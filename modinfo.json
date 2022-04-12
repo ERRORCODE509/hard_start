@@ -4,7 +4,7 @@
     "id": "hard_start",
     "name": "hard_start",
     "authors": [ "ERRORCODE509" ],
-    "description": "A *real* start for *real* men.",
+    "description": "A *real* start for *real* men. This one will make every other start easy in comparison. Ignore any errors on worldgen.",
     "category": "content",
     "dependencies": [ "dda" ]
   }
